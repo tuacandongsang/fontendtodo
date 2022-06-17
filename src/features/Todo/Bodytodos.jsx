@@ -22,7 +22,6 @@ function Bodytodos(props) {
                 <div>
                     <ListRightLearn Img={Img} />
                 </div>
-               
             </div>
         </>
     )
